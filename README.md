@@ -53,21 +53,21 @@ Files (blobs) can be easily managed as needed.
 * Spanish
 
 ## Screenshots
-<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/signin.png" width="300">
+<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/signin.png" width="100%">
 
-<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/tables.png" width="300">
+<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/tables.png" width="100%">
 
-<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/tables-view.png" width="300">
+<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/table-view.png" width="100%">
 
-<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/record-view.png" width="300">
+<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/record-view.png" width="100%">
 
-<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/folders.png" width="300">
+<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/folders.png" width="100%">
 
-<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/files.png" width="300">
+<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/files.png" width="100%">
 
-<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/file-view.png" width="300">
+<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/file-view.png" width="100%">
 
-<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/upload-file.png" width="300">
+<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/upload-file.png" width="100%">
 
 ## Developed by
 <a href="http://horus.com.uy" ><img src="https://horus.com.uy/img/logo_horus.png" width="128"></a>
