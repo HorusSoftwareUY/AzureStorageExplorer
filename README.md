@@ -13,7 +13,7 @@ Efficiently connect and manage your Azure Storage service accounts and resources
 In order to sign-in just enter your Azure Storage's account name and key.
 
 ## Demo
-<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/signin.png" width="300">
+<img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/demo.gif" width="100%">
 
 ## Features
 
@@ -70,7 +70,9 @@ Files (blobs) can be easily managed as needed.
 <img src="https://github.com/HorusSoftwareUY/AzureStorageExplorer/blob/master/screenshots/upload-file.png" width="100%">
 
 ## Developed by
-<a href="http://horus.com.uy" ><img src="https://horus.com.uy/img/logo_horus.png" width="128"></a>
+<a href="http://horus.com.uy">
+<img src="https://horus.com.uy/img/logo_horus.png" alt="Horus Studio" width="128">
+</a>
 
 ## Contributions
 Contributions are welcome! If you find a bug want a feature added please report it.
